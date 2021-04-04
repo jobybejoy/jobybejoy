@@ -1,8 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm Joby Varghese Bejoy, <br />
-I'm a pursuing Master's in Computer Science
-<h3 >I enjoy building user interfaces and full-stack applications on the web.</h3>
+I'm Joby Varghese Bejoy, I'm a pursuing Master's in Computer Science <br />
+I enjoy building stuff on the web.
 
 ### About Me
 - 🔭 I’m currently working on [Automated Attendance Marking App](https://github.com/jobybejoy/automated-attendance-frontend)
