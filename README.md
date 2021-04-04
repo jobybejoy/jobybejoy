@@ -7,7 +7,7 @@ I enjoy building stuff on the web.
 - 🔭 I’m currently working on [Automated Attendance Marking App](https://github.com/jobybejoy/automated-attendance-frontend)
 - 🌱 I’m currently learning how to writes tests.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jobybejoy/) [Twitter](https://twitter.com/jobybp) [Website](https://www.joby.dev)
-- ⚡ Fun fact: This video on [Material Design](https://www.youtube.com/watch?v=rrT6v5sOwJg) rattled me into web development
+- ⚡ What got me started: This video on [Material Design](https://www.youtube.com/watch?v=rrT6v5sOwJg) rattled me into web development
 
 ****
 
